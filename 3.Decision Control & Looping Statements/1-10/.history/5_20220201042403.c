@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main()
+{
+int a,b,c;
+char ch;
+pr
+
+
+
+return 0;
+}

@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main()
+{
+int a,b,c;
+printf("Enter the 3 numbers")
+
+return 0;
+}
